@@ -6,6 +6,7 @@ namespace Cap6ExercicioMatriz
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Exercicio Matriz:");
             string[] linha = Console.ReadLine().Split(" ");
             int m = int.Parse(linha[0]);
             int n = int.Parse(linha[1]);

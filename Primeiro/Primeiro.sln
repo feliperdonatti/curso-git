@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cap6ExercicoListas", "Cap6E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cap6ExercicioMatriz", "Cap6ExercicioMatriz\Cap6ExercicioMatriz.csproj", "{A7CE930D-8B61-4581-B472-E3F646CC3D5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap9StringBuilder", "Cap9StringBuilder\Cap9StringBuilder.csproj", "{48DB6B3C-5C26-4498-A2B9-38B12B2D6F97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cap9StringBuilder", "Cap9StringBuilder\Cap9StringBuilder.csproj", "{48DB6B3C-5C26-4498-A2B9-38B12B2D6F97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap9ExercicioFixacao", "Cap9ExercicioFixacao\Cap9ExercicioFixacao.csproj", "{A68E6F4E-AE2A-4192-8E19-465FCBE56545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cap9ExercicioFixacao", "Cap9ExercicioFixacao\Cap9ExercicioFixacao.csproj", "{A68E6F4E-AE2A-4192-8E19-465FCBE56545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap10-Exercicios", "Cap10-Exercicios\Cap10-Exercicios.csproj", "{E8E9569E-7120-48C6-B8C0-617145D40FC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A68E6F4E-AE2A-4192-8E19-465FCBE56545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A68E6F4E-AE2A-4192-8E19-465FCBE56545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A68E6F4E-AE2A-4192-8E19-465FCBE56545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E9569E-7120-48C6-B8C0-617145D40FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E9569E-7120-48C6-B8C0-617145D40FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E9569E-7120-48C6-B8C0-617145D40FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E9569E-7120-48C6-B8C0-617145D40FC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
